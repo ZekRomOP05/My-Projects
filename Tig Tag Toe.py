@@ -1,4 +1,4 @@
-
+#player part
 import math
 import random
 
